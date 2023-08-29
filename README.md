@@ -1,6 +1,6 @@
 # TradeWatch Dashboard
 
-This is a **Work In Progress** project which currently displays Spot ticks from [ForexService](https://github.com/ambarishvaidya/ForexService). The React application can add new subscriptions, start, stop, pause and resume the publishing.
+This project is a dynamic **Work-In-Progress**, designed to showcase Spot ticks sourced from [ForexService](https://github.com/ambarishvaidya/ForexService). The React application can add new subscriptions, start, stop, pause and resume the publishing.
 ![Dashboard](/Screenshots/Dashboard.JPG)
 ## Preparing the Application
 
