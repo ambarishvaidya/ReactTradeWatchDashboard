@@ -10,7 +10,6 @@ function SpotAddSubscriptions() {
   const [response, setResponse] = useState("");
 
   function start() {
-    alert("Starting...");
     fetch("https://localhost:7129/api/v1/start", {
       method: "POST",
       headers: {
